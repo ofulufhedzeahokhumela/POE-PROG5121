@@ -1,0 +1,23 @@
+{
+  "name": "JUNIOR KHUMELA",
+  "messages": [
+    {
+      "messageID": "0012345678",
+      "messageHash": "00:0:HITONIGHT",
+      "recipient": "+27718693002",
+      "message": "Hi Mike, can you join us for dinner tonight?"
+    },
+    {
+      "messageID": "0098765432",
+      "messageHash": "00:1:HELLOTHERE",
+      "recipient": "+27831234567",
+      "message": "Hello there"
+    },
+    {
+      "messageID": "0056789123",
+      "messageHash": "00:2:MEETINGTOMORROW",
+      "recipient": "+27711234567",
+      "message": "Meeting at 10AM tomorrow"
+    }
+  ]
+}
